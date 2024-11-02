@@ -5,7 +5,7 @@ import requests
 import time
 from functools import wraps
 
-CACHE_EXPIRATION_TIME = 10  
+CACHE_EXPIRATION_TIME = 10
 CACHE = {}
 
 
